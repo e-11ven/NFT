@@ -1,8 +1,5 @@
-ERC721
 ERC721 unrevealed with timestamp
 
-
-timer mint
 
 // SPDX-License-Identifier: MIT
 
