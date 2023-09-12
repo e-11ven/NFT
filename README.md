@@ -9,7 +9,7 @@ import "t@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/Strings.sol";
 
-contract Hude is ERC721Enumerable, Ownable {
+contract H is ERC721Enumerable, Ownable {
     using Strings for uint256;
 
     string public baseURI;
